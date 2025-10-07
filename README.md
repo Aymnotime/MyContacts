@@ -124,6 +124,4 @@ npm test
 
 ---
 
-## Contact
 
-Pour toute question ou contribution : [Votre nom ou email professionnel ici]
